@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\bin\Debug\net6.0\ProgramArgument.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\bin\Debug\net6.0\ProgramArgument.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\bin\Debug\net6.0\ProgramArgument.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\bin\Debug\net6.0\ProgramArgument.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\bin\Debug\net6.0\ProgramArgument.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\refint\ProgramArgument.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ProgramArgument.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ProgramArgument\obj\Debug\net6.0\ref\ProgramArgument.dll

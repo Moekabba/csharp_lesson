@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Loops\obj\Debug\net6.0\ref\Loops.dll

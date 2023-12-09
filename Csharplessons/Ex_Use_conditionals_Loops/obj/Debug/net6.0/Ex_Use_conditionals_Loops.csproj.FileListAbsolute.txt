@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\bin\Debug\net6.0\Ex_Use_conditionals_Loops.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\bin\Debug\net6.0\Ex_Use_conditionals_Loops.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\bin\Debug\net6.0\Ex_Use_conditionals_Loops.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\bin\Debug\net6.0\Ex_Use_conditionals_Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\bin\Debug\net6.0\Ex_Use_conditionals_Loops.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\refint\Ex_Use_conditionals_Loops.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\Ex_Use_conditionals_Loops.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Ex_Use_conditionals_Loops\obj\Debug\net6.0\ref\Ex_Use_conditionals_Loops.dll

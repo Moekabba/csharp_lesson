@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\bin\Debug\net6.0\Pass-by-Reference.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\bin\Debug\net6.0\Pass-by-Reference.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\bin\Debug\net6.0\Pass-by-Reference.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\bin\Debug\net6.0\Pass-by-Reference.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\bin\Debug\net6.0\Pass-by-Reference.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\refint\Pass-by-Reference.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\Pass-by-Reference.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Pass-by-Reference\obj\Debug\net6.0\ref\Pass-by-Reference.dll

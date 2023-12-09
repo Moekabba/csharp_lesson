@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\bin\Debug\net6.0\Class_Object.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\bin\Debug\net6.0\Class_Object.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\bin\Debug\net6.0\Class_Object.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\bin\Debug\net6.0\Class_Object.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\bin\Debug\net6.0\Class_Object.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\refint\Class_Object.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\Class_Object.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object\obj\Debug\net6.0\ref\Class_Object.dll

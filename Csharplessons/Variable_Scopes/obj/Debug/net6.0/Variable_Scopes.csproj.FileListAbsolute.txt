@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\bin\Debug\net6.0\Variable_Scopes.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\bin\Debug\net6.0\Variable_Scopes.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\bin\Debug\net6.0\Variable_Scopes.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\bin\Debug\net6.0\Variable_Scopes.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\bin\Debug\net6.0\Variable_Scopes.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\refint\Variable_Scopes.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\Variable_Scopes.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Variable_Scopes\obj\Debug\net6.0\ref\Variable_Scopes.dll

@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\bin\Debug\net6.0\Class_Object_Autopro.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\bin\Debug\net6.0\Class_Object_Autopro.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\bin\Debug\net6.0\Class_Object_Autopro.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\bin\Debug\net6.0\Class_Object_Autopro.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\bin\Debug\net6.0\Class_Object_Autopro.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\refint\Class_Object_Autopro.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\Class_Object_Autopro.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Class_Object_Autopro\obj\Debug\net6.0\ref\Class_Object_Autopro.dll

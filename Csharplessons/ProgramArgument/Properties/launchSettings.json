@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProgramArgument": {
+      "commandName": "Project",
+      "commandLineArgs": "Max"
+    }
+  }
+}

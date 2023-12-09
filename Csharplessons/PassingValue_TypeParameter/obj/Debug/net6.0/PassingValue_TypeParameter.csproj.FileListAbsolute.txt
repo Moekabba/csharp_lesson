@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\bin\Debug\net6.0\PassingValue_TypeParameter.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\bin\Debug\net6.0\PassingValue_TypeParameter.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\bin\Debug\net6.0\PassingValue_TypeParameter.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\bin\Debug\net6.0\PassingValue_TypeParameter.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\bin\Debug\net6.0\PassingValue_TypeParameter.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\refint\PassingValue_TypeParameter.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\PassingValue_TypeParameter.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\PassingValue_TypeParameter\obj\Debug\net6.0\ref\PassingValue_TypeParameter.dll

@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\bin\Debug\net6.0\Date_Time.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\bin\Debug\net6.0\Date_Time.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\bin\Debug\net6.0\Date_Time.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\bin\Debug\net6.0\Date_Time.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\bin\Debug\net6.0\Date_Time.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\refint\Date_Time.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\Date_Time.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\Date_Time\obj\Debug\net6.0\ref\Date_Time.dll

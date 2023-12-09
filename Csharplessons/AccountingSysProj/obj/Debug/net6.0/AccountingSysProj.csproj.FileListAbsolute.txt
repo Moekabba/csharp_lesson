@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\bin\Debug\net6.0\AccountingSysProj.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\bin\Debug\net6.0\AccountingSysProj.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\bin\Debug\net6.0\AccountingSysProj.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\bin\Debug\net6.0\AccountingSysProj.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\bin\Debug\net6.0\AccountingSysProj.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\refint\AccountingSysProj.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\AccountingSysProj.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\AccountingSysProj\obj\Debug\net6.0\ref\AccountingSysProj.dll

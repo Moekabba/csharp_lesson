@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\bin\Debug\net6.0\console_calculator.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\bin\Debug\net6.0\console_calculator.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\bin\Debug\net6.0\console_calculator.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\bin\Debug\net6.0\console_calculator.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\bin\Debug\net6.0\console_calculator.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\refint\console_calculator.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\console_calculator.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\console_calculator\obj\Debug\net6.0\ref\console_calculator.dll

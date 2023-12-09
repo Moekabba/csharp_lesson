@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\bin\Debug\net6.0\StringParsing.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\bin\Debug\net6.0\StringParsing.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\bin\Debug\net6.0\StringParsing.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\bin\Debug\net6.0\StringParsing.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\bin\Debug\net6.0\StringParsing.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\refint\StringParsing.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\StringParsing.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\StringParsing\obj\Debug\net6.0\ref\StringParsing.dll

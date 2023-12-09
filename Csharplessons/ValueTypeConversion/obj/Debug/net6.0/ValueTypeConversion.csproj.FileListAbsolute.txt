@@ -1,0 +1,14 @@
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\bin\Debug\net6.0\ValueTypeConversion.exe
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\bin\Debug\net6.0\ValueTypeConversion.deps.json
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\bin\Debug\net6.0\ValueTypeConversion.runtimeconfig.json
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\bin\Debug\net6.0\ValueTypeConversion.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\bin\Debug\net6.0\ValueTypeConversion.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.AssemblyInfoInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.AssemblyInfo.cs
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\refint\ValueTypeConversion.dll
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.pdb
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ValueTypeConversion.genruntimeconfig.cache
+C:\Users\sulay\source\repos\ZTM.DotNet\ValueTypeConversion\obj\Debug\net6.0\ref\ValueTypeConversion.dll
